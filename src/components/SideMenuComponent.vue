@@ -24,7 +24,7 @@ const handleChannelChange = (channel: string) => {
 
 <template>
   <div class="w-1/4 pb-16">
-    <div class="w-1/4 p-4 fixed max-h-screen top-0 pb-6">
+    <div class="w-1/4 p-4 fixed max-h-screen top-0 pb-6 flex flex-col">
       <h2 class="mb-4 font-black">Lista kanałów</h2>
       <input
         type="text"
