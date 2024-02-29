@@ -40,7 +40,7 @@ const handleJsonUpload = (event: Event) => {
     <small class="mt-4 block text-gray-600">
       Instrukcja jak wyeksportować historię oglądanych filmów z YouTube znajduje się
       <a
-        href="https://github.com/Ferigone/statystyki-youtube"
+        href="https://github.com/Ferigone/statystyki-youtube#jak-wyeksportować-plik"
         target="_blank"
         rel="noopener noreferrer"
         class="text-blue-500 hover:underline"
