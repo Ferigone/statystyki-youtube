@@ -2,6 +2,8 @@
 
 Statystyki YouTube to strona, która pozwala na wyświetlanie prywatnych statystyk związanych z wybranym kanałem.
 
+[Link do wersji live](https://statystyki-youtube.vercel.app/)
+
 Aplikacja nie przechowuje żadnych danych, które użytkownik wprowadza w formularzu. Dane są przechowywane tylko i wyłącznie w pamięci przeglądarki.
 
 # Dostępne statystyki
